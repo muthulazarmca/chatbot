@@ -1,0 +1,12 @@
+.chat-messages-container {
+  flex-grow: 1;
+  margin-top: 20px;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+
+.chat-message-time {
+  font-size: 14px;
+  color: rgb(125, 125, 125);
+  margin-top: 5px;
+}
